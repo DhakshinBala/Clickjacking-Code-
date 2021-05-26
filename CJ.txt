@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Clickjacking test page</title>
+</head>
+<body>
+<p>YOUR WEBSITE IS VULNERABLE</p>
+<iframe src="ENTER THE URL THAT IS TO BE TESTED " width="900" height="600"></iframe>
+</body>
+</html>
